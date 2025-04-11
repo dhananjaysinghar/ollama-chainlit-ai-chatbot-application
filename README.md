@@ -24,3 +24,9 @@ response = requests.post(
 print(response.json()["response"])
 
 ```
+
+
+## Run Chainlit using below command
+```
+chainlit run <path>/chatbot.py      
+```
