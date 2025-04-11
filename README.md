@@ -30,3 +30,4 @@ print(response.json()["response"])
 ```
 chainlit run <path>/chatbot.py      
 ```
+![image](https://github.com/user-attachments/assets/208f69d6-aee6-4205-b17e-d1e95c7c8e11)
